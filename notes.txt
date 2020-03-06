@@ -1,0 +1,5 @@
+aperently the firwall is causing problems in app conextion so
+here we re droping the login stuff for now
+
+anyway some modfiction to the code will do to fix thisfor now 
+im just rendering the home page directly and fixing the state of the root widget 
